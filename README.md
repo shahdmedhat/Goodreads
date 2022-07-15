@@ -1,2 +1,1 @@
-# goodReads
-Networks Project
+# Goodreads
